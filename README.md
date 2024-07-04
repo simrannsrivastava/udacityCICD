@@ -21,8 +21,9 @@ For this project, we will do CI/CD with Github Actions and Azure Pipeline. I hav
 ### Clone the repo into Azure Cloud Shell
 1. After adding the SSH keys to GitHub, run the cmd below in Azure cloud shell to clone the project:
    git clone <"git repo using ssh">
-   ![image](https://github.com/simrannsrivastava/udacityCICD/assets/54073955/0d2e696b-117a-4823-b6e9-ed5e94fb5e2d)
+![image](https://github.com/simrannsrivastava/udacityCICD/assets/54073955/eb6bf9b6-dfba-462a-9136-cb93cb2153da)
 
+ 
 ### Run Makefile
 1. Set up virtual env:
    python3 -m venv ~/.flask-ml-sevice
