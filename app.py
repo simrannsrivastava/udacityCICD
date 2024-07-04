@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 
 app = Flask(__name__)
 LOG = create_logger(app)
-LOG.setLevel(logging.DEBUG)
+LOG.setLevel(logging.INFO)
 
 def scale(payload):
     """Scales Payload"""
@@ -45,4 +45,5 @@ def predict():
     return jsonify({'prediction': prediction})
 
 if __name__ == "__main__":
+    app.debug = True
     app.run(host='0.0.0.0', port=8000, debug=True)
