@@ -45,6 +45,7 @@ For this project, we will do CI/CD with Github Actions and Azure Pipeline. I hav
 3. Run the Azure pipeline and output after deploying sucessfully.
 <img width="1440" alt="image" src="https://github.com/simrannsrivastava/udacityCICD/assets/54073955/4e0967b2-36b2-4db0-ac20-9d0df551e1a0">
 4. The logs can be seen too.
+![image](https://github.com/simrannsrivastava/udacityCICD/assets/54073955/726fab54-473a-4c12-bd6e-4fe7f27a0bc1)
 
 5. Run ./make_predict_azure_app.sh cmd to test the predict API and output looks like this:
 <img width="1440" alt="image" src="https://github.com/simrannsrivastava/udacityCICD/assets/54073955/95ae59c6-776f-4175-bd8a-3cb80f69594f">
@@ -56,6 +57,6 @@ For this project, we will do CI/CD with Github Actions and Azure Pipeline. I hav
 1. Remove code not used.
 
 ## Demo 
-Link: 
+Link: https://youtu.be/tbn-Y8nSLkc
 
 
