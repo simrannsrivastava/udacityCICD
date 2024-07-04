@@ -6,7 +6,7 @@ class WebsiteTestUser(HttpUser):
  
     @task(1)
     def test1(self):
-        self.client.get(https://mlflaskapp.azurewebsites.net/)
+        self.client.get(https://flask-ml-service.azurewebsites.net/)
  
     @task(2)
     def test2(self):
