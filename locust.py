@@ -21,4 +21,4 @@ class WebsiteTestUser(HttpUser):
        
         # Convert JSON data to string
         payload = json.dumps(json_data)
-        self.client.post(https://flask-ml-service.azurewebsites.net/predict, data=payload, headers={"Content-Type": "application/json"})
+        self.client.post("https://flask-ml-service.azurewebsites.net/predict", data=payload, headers={"Content-Type": "application/json"})
