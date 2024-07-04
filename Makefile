@@ -3,7 +3,8 @@ setup:
 
 install:
 	pip install --upgrade pip &&\
-		pip install -r requirements.txt
+		apt-get install python3-distutils &&\
+			pip install -r requirements.txt
 
 test:
 	#python -m pytest -vv --cov=myrepolib tests/*.py
