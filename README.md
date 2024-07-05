@@ -1,3 +1,4 @@
+[![Python application test with Github actions](https://github.com/simrannsrivastava/udacityCICD/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/simrannsrivastava/udacityCICD/actions/workflows/pythonapp.yml)
 # Overview
 
 For this project, we will do CI/CD with Github Actions and Azure Pipeline. I have set up the Azure Pipelines to deploy the Flask ML Service Project to Azure App Service.
