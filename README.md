@@ -3,7 +3,7 @@
 For this project, we will do CI/CD with Github Actions and Azure Pipeline. I have set up the Azure Pipelines to deploy the Flask ML Service Project to Azure App Service.
 
 ## Project Plan
-1. A Trello Board (https://trello.com/b/kuDhnMIa/building-ci-cd-pipeline-udacity) for tracking tickets in the project.
+1. A Trello Board (https://trello.com/invite/b/kuDhnMIa/ATTI0c5e057312e2c7f9bbfa7dcfc7a86622171E4479/building-ci-cd-pipeline-udacity) for tracking tickets in the project.
 2. A Spreadsheet (https://docs.google.com/spreadsheets/d/1heqqlP7qrt7Sa0xwsOovOV-XoL3yavBUnWw3Ex_ohZQ/edit?usp=sharing) for managing project timeline.
 
 ## Instructions
